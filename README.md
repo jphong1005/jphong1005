@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=blue)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=UIKit&logoColor=blue)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCC00?style=flat&logo=firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/realm-39477F?style=flat&logo=realm&logoColor=white)
 
