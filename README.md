@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🗣️ Introduce
+- **👨‍💻 개발자로서,**
+  - 애자일한 개발과 페어 프로그래밍을 통해 소통하고 문제를 해결해 나가는 것을 좋아합니다.
+  - 사용자 친화적인 UI/UX 제공을 위해 끊임없이 고민합니다.
+  - 피드백을 통해 기능을 확장하고, 사용자 중심의 서비스가 되기 위해 노력합니다.
+  
+- **🙋‍♂️ 멤버로서,**
+  - 서로에게 긍정적인 영향을 주고, 함께 성장하는 분위기를 조성할 수 있습니다.
+  - **'존중'** 과 **'배려'** 라는 키워드로 사람을 마주하여 갈등을 해결하며, 조직의 시너지를 높이는 데 집중합니다.
+  - 머리를 맞대고 함께 고민하며, 해결하는 협업에 익숙합니다.
+  - 항상 **'겸손'** 하고 **'배우고자 하는 마음'** 으로 공유하고 성장하고자 합니다.
+
+<br>
+
 ### 🔥 Tech Stacks
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective_C-000000?style=flat&logo=apple&logoColor=white)
