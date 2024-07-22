@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 <br>
 
 ###  Contribution
-- Swift community
-  - 🎖 Contributor of [bbiguduk/Swift_language_guide_kr](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H) (-> The Swift Programming Language (한국어))
+- 🎖 Contributor of [The Swift Programming Language (한국어)](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H)
 
 <br>
 
