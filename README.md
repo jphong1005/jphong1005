@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 - Likelion App School: iOS 1st generation
   - 2022-09 ~ 2023-02 (5 months)
-  - studied Swift, SwiftUI, HIG, git/github
+  - studied Swift, SwiftUI, HIG, Git/GitHub
   - masterpiece: [Touché](https://github.com/Benedicto-H/Touche), [Awesome Korean Dictionary](https://apps.apple.com/kr/app/awesome-korean-dictionary/id1665422867)
 
 - Gyeonggi University of Science and Technology ('22)
