@@ -48,11 +48,21 @@ Here are some ideas to get you started:
 
 <br>
 
-###  Education
-- **🦁 Likelion App School: iOS 1st Gen (2022. 09 - 2023. 02)**
+###  Contribution
+- Swift community
+  - 🎖 Contributor of [bbiguduk/Swift_language_guide_kr](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H) (-> The Swift Programming Language (한국어))
 
 <br>
 
-### 🎖️ Awards
-- **🥇 Likelion App School: iOS 1st Gen - Touché**
-- **🥉 Likelion App School: iOS 1st Gen - [Awesome Korean Dictionary](https://apps.apple.com/kr/app/awesome-korean-dictionary/id1665422867)**
+### 🎓 Education
+- T academy: Objective-C (객체 지향 프로그래밍 개념과 Objective-C 언어 학습)
+  - 2024-02 ~ 2024-03 (2 weeks)
+  - studied Objc
+
+- Likelion App School: iOS 1st generation
+  - 2022-09 ~ 2023-02 (5 months)
+  - studied Swift, SwiftUI, HIG, git/github
+  - masterpiece: [Touché](https://github.com/Benedicto-H/Touche), [Awesome Korean Dictionary](https://apps.apple.com/kr/app/awesome-korean-dictionary/id1665422867)
+
+- Gyeonggi University of Science and Technology ('22)
+  - Dept. of Computer & Mobile Convergence (associate degree)
