@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=UIKit&logoColor=blue)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCC00?style=flat&logo=firebase&logoColor=white)
-![Realm](https://img.shields.io/badge/realm-39477F?style=flat&logo=realm&logoColor=white)
 
 ### ⚒️ Tools
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
@@ -49,7 +48,9 @@ Here are some ideas to get you started:
 <br>
 
 ###  Contribution
-- 🎖 Contributor of [The Swift Programming Language (한국어)](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H)
+- Apple
+  - 🎖 Contributor of [The Swift Programming Language (한국어)](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H)
+  - 🎖 Contributor of [swiftlang/swift](https://github.com/swiftlang/swift/pulls?q=author%3ABenedicto-H)
 
 <br>
 
