@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FCBA03&height=150&section=header&text=Benedicto-H&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FCBA03&height=150&section=header&text=Benedicto&fontSize=70&animation=twinkling)
 
-# Hi there, it's Jinpyo here 👋
+# Hi there, I'm Jinpyo 👋
 
 <!--
 **jphong1005/jphong1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## _Introduce_
+### _Introduce_
 **"누군가가 겪고 있는 불편한 문제를, 기술적인 방법을 동원하여 해결해주고자 하는 iOS 개발자 홍진표입니다."**
 
 - **개발자로서,**
@@ -31,18 +31,18 @@ Here are some ideas to get you started:
   - 항상 **'겸손함을 유지'** 하며, 부족한 점을 인정하고 배우려는 자세로 피드백을 수용하여 구성원과 함께 발전합니다.
   - 사용자가 겪는 문제에 공감하고, 함께 머리를 맞대어 당면한 문제를 다각도로 바라보며 해결해 나가는 협업에 익숙합니다.
 
-<br>
+***
 
-## _Skills_
+### _Skills_
 - <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-%232396F3?&style=flat&logo=UIKit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=blue">
 
 - <img src="https://img.shields.io/badge/Combine-FA7343?style=flat&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCC00?style=flat&logo=firebase&logoColor=white">
 
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 
-<br>
+***
 
-## _Projects_
+### _Projects_
 ### APOD: REST API Project
 - NASA Open APIs를 기반으로 매일 우주 관련 사진과 그 설명을 제공하는 앱 서비스 (1일 1 랜덤 천문학 정보)
 - 서버 통신 및 비동기 프로그래밍, 디자인 패턴에 대해 익숙해지고 싶은 마음과 기술 이해를 목적으로 시작한 토이 프로젝트
@@ -104,9 +104,9 @@ Here are some ideas to get you started:
 - 진행 기간: 2023.01 (4주)
 - 핵심 키워드: MVVM, Swift Concurrency (async / await), Firebase
 
-<br>
+***
 
-## _Contributions_
+### _Contributions_
 - <img src="https://github.com/user-attachments/assets/a20f2260-6d90-4935-a7cd-e21d552a06d4" width="2%" height="2%"> **Apple**
   - 🎖 Contributor of [The Swift Programming Language (한국어)](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=author%3ABenedicto-H)
   - 🎖 Contributor of [swiftlang/swift](https://github.com/swiftlang/swift/pulls?q=author%3ABenedicto-H)
@@ -117,9 +117,9 @@ Here are some ideas to get you started:
 - <img src="https://github.com/user-attachments/assets/d88ae1dc-9c36-4fd0-a274-6f96fb820c9b" width="2%" height="2%"> **Point-Free**
   - 🎖 Contributor of [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture/pulls?q=author%3ABenedicto-H)
 
-<br>
+***
 
-## _Educations_
+### _Educations_
 ### [ T아카데미: Objective-C ]
 - 교육 기간: 2024.02 - 2024.03 (2주)
 - 교육 내용
